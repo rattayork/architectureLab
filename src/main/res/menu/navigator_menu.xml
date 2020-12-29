@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/navigator_developer_page"
+        android:title="@string/to_developer_page" />
+    <item android:id="@+id/navigator_medium_dot_com"
+        android:title="@string/medium_dot_com" />
+</menu>

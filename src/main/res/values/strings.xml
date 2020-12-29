@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">architectureLab</string>
+    <string name="logged">logged</string>
+    <string name="to_developer_page">To developer Page</string>
+    <string name="medium_dot_com">Medium.com</string>
+    <string name="add_user">Add User</string>
+    <string name="clear_users">Clear Users</string>
+    <string name="first_name">Fist name</string>
+    <string name="last_name">Last name</string>
+    <string name="age">Age</string>
+    <string name="email_addr">Email address</string>
+    <string name="tel">Tel</string>
+    <string name="enter_first_name">Enter First name</string>
+    <string name="enter_last_name">Enter Last name</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_email_addr">Enter Email Address</string>
+    <string name="enter_tel">Enter Tel</string>
+   <string name="should_not_empty">should not empty</string>
+    <string name="email_to_lowercase">E-mails to Lower case</string>
+    <string name="email_to_lowercase_dialog_msg">Transform E-mail to lower case -Using function type as parameter-?</string>
+    <string name="email_to_uppercase">E-mails to Upper case</string>
+    <string name="email_to_uppercase_dialog_msg">Transform E-mail to upper case -Using function type as parameter-?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="everyone_older">Everyone getting older</string>
+    <string name="everyone_older_dialog_msg">Transform every users to be one year older -Using function type as parameter?</string>
+</resources>

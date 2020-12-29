@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/addUser"
+        android:title="@string/add_user"/>
+    <item android:id="@+id/clearUser"
+        android:title="@string/clear_users"/>
+    <item android:id="@+id/emailToLowerCase"
+        android:title="@string/email_to_lowercase" />
+    <item android:id="@+id/emailToUpperCase"
+        android:title="@string/email_to_uppercase" />
+    <item android:id="@+id/everyoneGettingOlder"
+        android:title="@string/everyone_older" />
+
+</menu>
